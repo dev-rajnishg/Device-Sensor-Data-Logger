@@ -1,0 +1,13 @@
+build/
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exe
+*.db
+*.csv
+*.log
+*.user
+*.vcxproj*
+*.sln
+out/
